@@ -1,4 +1,6 @@
 //SwiftUI-Vulan-Planner-Application (VPA)
+
+
 Vulcan Planner gives users the ability to create, edit, and delete events, that can be categorized with a variety of different event types, ensuring seamless organization and efficiency in managing busy schedules. What sets the app apart is the unique integration with student course schedules and university announcements, making it a must-have tool for university students. Once logged in, the app automatically loads the user’s course schedule, eliminating the need for manual input and saving time. The announcements are made available for viewing by a button that creates a web-view that can be seen inside the app. Therefore, users can stay up to date with important updates, news, and events happening on campus. To enhance the user experience, when users are away from their iOS devices, a Raspberry Pi acts as a notification hub, providing reminders for upcoming events. Users can log in to the Raspberry Pi to view their events and announcements. With our iOS calendar application and Raspberry Pi notification hub, we believe it can help improve student efficiency and productivity.
 
 
